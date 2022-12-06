@@ -1,9 +1,12 @@
 <h1 align="center">Hello 👋, I'm Nishchay Nilabh</h1>
 <h3 align="center">Currently learning ML</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockhopper130&label=Profile%20views&color=0e75b6&style=flat" alt="rockhopper130" /> </p>
 
 - 📫 How to reach me **nishchay.n2003@gmail.com**
+<img align = "right" src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width = 400px border-radius = 80px} >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
