@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Nishchay Nilabh</h1>
-<h3 align="center">Currently learning ML</h3>
 
 
 
